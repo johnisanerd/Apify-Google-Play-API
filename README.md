@@ -36,7 +36,7 @@ uv run python google-play-api-example.py --example version_history
 - version, updatedOn and releasedOn for release-cadence tracking
 - dataSafety declarations plus ad and in-app purchase flags for privacy audits
 - Ranked search results with position for ASO tracking
-- Country and language targeting; pairs with the Apple App Store Actors
+- Country and language targeting; pairs with the [Apple App Store Actors](https://apify.com/johnvc/apple-app-store-search?fpr=9n7kx3)
 
 ## Recipes
 
